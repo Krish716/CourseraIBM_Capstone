@@ -1,2 +1,2 @@
-# CourseraIBM_Capstone
+# IBM COURSERA Data Science Capstone
 Assignments for capstone project.
